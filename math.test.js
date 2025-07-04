@@ -1,4 +1,3 @@
-const { expect } = require("chai");
 const {addition, division, aireRectangle} = require("./math")
 
 test('test de la fonction division', () => {
