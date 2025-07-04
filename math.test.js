@@ -13,5 +13,5 @@ test("test du calcul de l'aire d'un rectangle", () => {
 });
 
 test('test de la puissance 3', () => {
-    expect(puissance3(2)).toBe(9)
+    expect(puissance3(2)).toBe(8)
 });
