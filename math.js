@@ -13,4 +13,8 @@ function aireRectangle (longueur, largeur){
     return longueur*largeur
 }
 
-module.exports  = {addition, division, aireRectangle}
+function puissance3(z){
+    return z**3
+}
+
+module.exports  = {addition, division, aireRectangle, puissance3}
