@@ -9,4 +9,8 @@ function division (x,y){
     return x / y;
 }
 
-module.exports  = {addition, division}
+function aireRectangle (longueur, largeur){
+    return longueur*largeur
+}
+
+module.exports  = {addition, division, aireRectangle}
