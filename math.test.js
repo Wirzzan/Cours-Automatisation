@@ -5,6 +5,6 @@ test('test de la fonction division', () => {
 });
 
 test('test de la fonction addition', () => {
-    expect(division(5,2)).toBe(7)
+    expect(addition(5,2)).toBe(7)
 });
 
